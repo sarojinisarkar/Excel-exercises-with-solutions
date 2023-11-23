@@ -48,6 +48,16 @@ To find the answer using the following formula,
 
 ![image](https://github.com/sarojinisarkar/Excel-exercises-with-solutions/assets/151612374/83247226-304e-4b0c-8f1d-478276ee64b1)
 
+Q.5 If Items Amount is Greater > 500000, Then Items "Expensive" otherwise "Lets Buy it". 
+
+Answer:
+To find the  answer using the following formula,
+
+=IF(E45:E54>500000,"Expensive","Lets Buy it"), Where, 45 is the first row of Amount(E) and 54 is the last row of Amount(E).
+
+
+
+![image](https://github.com/sarojinisarkar/Excel-exercises-with-solutions/assets/151612374/b30524f5-f068-47ce-bf92-677c061b712e)
 
 
 
