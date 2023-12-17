@@ -16,7 +16,11 @@ Question: What is the price of a Caffe Mocha, size Grande,Tall, Venti?
 
 Answer: To find the answwer using following formula,
 
-=VLOOKUP(A25,$A$4:$D$13,MATCH(B25,$A$4:$D$4,0))
+=VLOOKUP(A25,$A$4:$D$13,MATCH(B25,$A$4:$D$4,0)), where A is "classic favorite column", B is "Tall" column,  and D is "Venti" column.
+
+
+![image](https://github.com/sarojinisarkar/Excel-exercises-with-solutions/assets/151612374/2afc0322-b80c-4ae4-bbbc-9391f34bb514)
+
 
 
 
