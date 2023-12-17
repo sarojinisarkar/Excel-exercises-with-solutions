@@ -21,3 +21,7 @@ Answer: To find the answwer using following formula,
 
 
 
+
+
+
+
